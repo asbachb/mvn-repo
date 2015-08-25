@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.kapott</groupId>
+  <artifactId>hbci4java</artifactId>
+  <versioning>
+    <versions>
+      <version>2.5.13-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150825122058</lastUpdated>
+  </versioning>
+</metadata>
