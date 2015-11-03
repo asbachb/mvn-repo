@@ -3,11 +3,12 @@
   <groupId>com.exxeta.oses</groupId>
   <artifactId>dependency-decompiler-maven-plugin-api</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>1.1.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
+      <version>1.1.0</version>
     </versions>
-    <lastUpdated>20151102220044</lastUpdated>
+    <lastUpdated>20151103174829</lastUpdated>
   </versioning>
 </metadata>
